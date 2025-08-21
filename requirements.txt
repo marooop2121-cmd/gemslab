@@ -1,0 +1,7 @@
+streamlit==1.37.1
+pandas==2.2.2
+Pillow==10.4.0
+python-dotenv==1.0.1
+supabase==2.6.0
+# opencv is optional for cloud; many hosts support it. If not needed, you can remove.
+opencv-python==4.10.0.84
